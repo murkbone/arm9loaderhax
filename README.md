@@ -11,8 +11,6 @@ The project includes tools such as:
 - Create NAND dump
 - Convert save data to modded save data
 - Optimizations 
-- Level editor
-- Restored old levels
 
  & many more.
 
