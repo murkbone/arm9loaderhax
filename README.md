@@ -7,14 +7,12 @@
 arm9loaderhax is a powerful set of tools for modding Auxilium.
 
 The project includes tools such as:
-
 - Restored Stop N' Swop functionality
 - Create NAND dump
 - Convert save data to modded save data
 - Optimizations 
 - Level editor
 - Restored old levels
- 
  & many more.
 
 ## FAQ
