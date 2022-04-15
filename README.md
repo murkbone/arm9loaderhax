@@ -4,7 +4,7 @@
 
 **Downloadable as an executable or CFW (using [boot9strap](https://github.com/enfier/boot9strap)).**
 
-**Created by ritz ([@enfier](https://github.com/enfier)), smea ([@fruitypaw](https://github.com/fruitypaw)) & riley ([448v](https://github.com/448v)).
+**Created by ritz ([@enfier](https://github.com/enfier)), smea ([@fruitypaw](https://github.com/fruitypaw)) & riley ([448v](https://github.com/448v)).**
 
 arm9loaderhax is a powerful set of tools for modding Auxilium.
 
