@@ -34,6 +34,10 @@ arm9loaderhax will then be setup & repeated booting is not needed.
 ### Does the executable work too?
 Yes. If you're looking for an easy-to-use install. install arm9laoderhax through the executable.
 
+### What's the difference between installs?
+The **CFW** version of arm9loaderhax lets you install it via [boot9strap](https://github.com/enfier/boot9strap) & has better performance.
+The **executable** version of arm9loaderhax lets you run it as soon as you unzip the file & is the simplest version to install.
+
 ### Is this project going to remain free?
 Yes.
 
