@@ -1,0 +1,13 @@
+
+If running the executable;
+
+- Open "Auxilium.bat" and install the hax from there
+- Optional: Move it to your downloads folder for best results
+
+If running the CFW version;
+
+- Replace the "replace.txt" file in boot9strap > file with the one included in your download
+- Drag your copy of Auxilium into the boot9strap folder
+- Open boot9strap
+- Run NTRBoot
+- Install hax
